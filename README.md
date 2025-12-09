@@ -4,12 +4,11 @@
 https://github.com/user-attachments/assets/c30713cc-45c4-4bc7-aff9-8e656223939b
 
 
-
-A modular, scalable API testing framework built with Python + pytest
-
+🐾 Swagger PetStore API Automation Framework
+A Modular, Scalable API Testing Framework Built with Python + pytest
 📘 Overview
 
-This project is a fully structured API automation framework created using the Swagger PetStore API.
+This project is a fully structured API automation framework built using the Swagger PetStore API.
 It demonstrates clean architecture, reusable components, and maintainable test design — suitable for both learning and real-world QA workflows.
 
 The main goals of this project are to:
@@ -23,7 +22,6 @@ Showcase scalable, maintainable automation practices
 Provide a clean template for future REST API projects
 
 🏗️ Architecture
-
 ├── api_client
 │   ├── base_client.py
 │   ├── pet_client.py
@@ -45,7 +43,6 @@ Provide a clean template for future REST API projects
 ├── requirements.txt
 └── README.md
 
-
 ⚙️ Tech Stack
 
 Python 3.x
@@ -66,7 +63,7 @@ Swagger PetStore API
 ✔️ Organized test structure by domain
 ✔️ Positive + Negative test coverage
 ✔️ Terminal-friendly pytest execution
-✔️ Easy extension for future endpoints
+✔️ Easily extendable for future endpoints
 
 🧪 Tests Implemented
 🐶 Pet Endpoints
@@ -125,26 +122,25 @@ Demonstrate real-world API testing practices
 
 Provide a learning foundation for QA engineers
 
-Build a framework that can grow with project needs
+Build a framework that can evolve with project needs
 
 💡 QA Inspiration
 
 “There’s a special kind of ASMR in watching clean green test logs flow in the terminal.”
 
-Because for QA engineers —
-Quality isn’t just measured. It’s felt.
+For QA engineers — Quality isn’t just measured. It’s felt.
 
 🌱 Future Enhancements
 
-Add environment-based config switching
+Environment-based configuration switching
 
-Add CI/CD pipeline integration
+CI/CD pipeline integration
 
-Add Allure or pytest-html reporting
+Allure reporting or enhanced pytest HTML reports
 
 Data-driven testing using JSON/YAML
 
-Add mock server integration
+Mock server integration
 
 🤝 Contributions
 

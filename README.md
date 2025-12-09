@@ -5,7 +5,9 @@ https://github.com/user-attachments/assets/c30713cc-45c4-4bc7-aff9-8e656223939b
 
 
 🐾 Swagger PetStore API Automation Framework
-A Modular, Scalable API Testing Framework Built with Python + pytest
+
+A Modular, Scalable API Testing Framework built with Python + pytest
+
 📘 Overview
 
 This project is a fully structured API automation framework built using the Swagger PetStore API.
@@ -22,6 +24,7 @@ Showcase scalable, maintainable automation practices
 Provide a clean template for future REST API projects
 
 🏗️ Architecture
+
 ├── api_client
 │   ├── base_client.py
 │   ├── pet_client.py
@@ -42,7 +45,6 @@ Provide a clean template for future REST API projects
 │
 ├── requirements.txt
 └── README.md
-
 ⚙️ Tech Stack
 
 Python 3.x
@@ -51,7 +53,7 @@ pytest
 
 Requests library
 
-JSON schemas (optional)
+JSON Schemas (optional)
 
 Swagger PetStore API
 
@@ -100,7 +102,9 @@ Get user
 
 Login / logout
 
-Update and delete user
+Update user
+
+Delete user
 
 Invalid credentials testing
 
@@ -111,7 +115,7 @@ pip install -r requirements.txt
 2️⃣ Run all tests
 pytest -v
 
-3️⃣ Run tests with HTML report (optional)
+3️⃣ Run with HTML report
 pytest --html=report.html
 
 🎯 Key Objectives
@@ -136,9 +140,9 @@ Environment-based configuration switching
 
 CI/CD pipeline integration
 
-Allure reporting or enhanced pytest HTML reports
+Allure reporting / enhanced HTML reports
 
-Data-driven testing using JSON/YAML
+Data-driven testing (JSON / YAML)
 
 Mock server integration
 

@@ -1,9 +1,9 @@
 
-🐾 Swagger PetSto
+🐾 Swagger PetStore API Automation Project
 
 https://github.com/user-attachments/assets/c30713cc-45c4-4bc7-aff9-8e656223939b
 
-re API Automation Project
+
 
 A modular, scalable API testing framework built with Python + pytest
 

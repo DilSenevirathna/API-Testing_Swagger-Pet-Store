@@ -24,11 +24,6 @@ Provide a clean template for future REST API projects
 
 🏗️ Architecture
 
-Below is the high-level architecture diagram used in this framework:
-
-(Place the image in your repo root for the link to work.)
-
-📁 Folder Structure
 ├── api_client
 │   ├── base_client.py
 │   ├── pet_client.py
@@ -49,6 +44,7 @@ Below is the high-level architecture diagram used in this framework:
 │
 ├── requirements.txt
 └── README.md
+
 
 ⚙️ Tech Stack
 

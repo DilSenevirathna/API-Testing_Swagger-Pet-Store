@@ -1,8 +1,4 @@
 
-🐾 Swagger PetStore API Automation Project
-
-https://github.com/user-attachments/assets/c30713cc-45c4-4bc7-aff9-8e656223939b
-
 
 🐾 Swagger PetStore API Automation Framework
 
@@ -24,7 +20,6 @@ Showcase scalable, maintainable automation practices
 Provide a clean template for future REST API projects
 
 🏗️ Architecture
-
 ├── api_client
 │   ├── base_client.py
 │   ├── pet_client.py
@@ -45,6 +40,7 @@ Provide a clean template for future REST API projects
 │
 ├── requirements.txt
 └── README.md
+
 ⚙️ Tech Stack
 
 Python 3.x
